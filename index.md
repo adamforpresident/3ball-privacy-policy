@@ -7,7 +7,7 @@ This policy explains what information is collected when you play **3ball** on iO
 **Developer:** 3ball
 **Contact:** 3ballballball@proton.me
 
-## The short version
+## In short...
 
 - We don't run any servers and we don't collect your name, email or account details. 3ball works offline.
 - 3ball shows ads from **Google AdMob**. AdMob collects some device information to show and measure ads. In the UK and EU, ads are only personalised if you agree.
@@ -61,7 +61,7 @@ If you contact us (for example, to report an ad or ask for support), we use your
 
 ## Your rights
 
-Depending on where you live, including the UK and EU, you may have the right to access, correct or delete personal data about you, or to object to or restrict how it's used. Because we don't hold personal data ourselves, most requests are best directed to Google or Unity using the links above. We're happy to help: email us at [YOUR GAME EMAIL].
+Depending on where you live, including the UK and EU, you may have the right to access, correct or delete personal data about you, or to object to or restrict how it's used. Because we don't hold personal data ourselves, most requests are best directed to Google or Unity using the links above. We're happy to help: email us at 3ballballball@proton.me.
 
 In the UK you can also complain to the Information Commissioner's Office ([ico.org.uk](https://ico.org.uk)).
 
